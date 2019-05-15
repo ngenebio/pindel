@@ -1,7 +1,7 @@
 # Pindel
 
 ## Compiling 
-apt install build-essential libz-devl libbz2-devel liblzma-dev
+apt install build-essential libz-dev libbz2-devel liblzma-dev
 
 To compile Pindel you need three things: GNU Make and GCC (which usually are 
 already installed on Linux) and htslib. The last is not installed on Linux
